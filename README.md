@@ -1,7 +1,8 @@
 # Job & Internship Management System
 
 A full-stack MERN application that streamlines the job and internship application process with role-based access for administrators and applicants. The platform enables administrators to manage listings and applications while allowing applicants to explore opportunities and apply seamlessly.
-
+ [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://job-internship-management.vercel.app/)
+[![Backend API](https://img.shields.io/badge/API-Render-blue)](https://job-internship-management.onrender.com/)
 ## 🚀 Features
 
 ### Applicant Features
