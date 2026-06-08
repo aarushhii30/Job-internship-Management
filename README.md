@@ -216,7 +216,59 @@ VITE_API_URL=https://your-render-backend-url.onrender.com/api
 * Application Tracking System
 
 ---
+## 📚 Learning Outcomes
 
+Through the development of this project, I gained hands-on experience in:
+
+### Full-Stack Development
+- Building a complete MERN stack application from scratch
+- Structuring frontend and backend in a scalable manner
+- Managing API communication between React and Express
+
+### Authentication & Authorization
+- Implementing JWT-based authentication
+- Creating protected routes
+- Managing role-based access control (Admin & Applicant)
+
+### Database Management
+- Designing MongoDB schemas using Mongoose
+- Performing CRUD operations
+- Managing relationships between users, jobs, and applications
+
+### Frontend Development
+- Building responsive user interfaces with React
+- Managing application state using Context API
+- Implementing client-side routing with React Router
+
+### Backend Development
+- Developing RESTful APIs using Express.js
+- Creating middleware for authentication and authorization
+- Handling errors and request validation
+
+### Deployment & DevOps
+- Deploying frontend applications on Vercel
+- Deploying backend services on Render
+- Configuring MongoDB Atlas for cloud database hosting
+- Managing environment variables securely
+
+### Software Engineering Practices
+- Git and GitHub version control
+- Project documentation and repository management
+- Debugging real-world deployment and integration issues
+- Organizing code using industry-standard project structure
+
+## 🎯 Skills Demonstrated
+
+- MERN Stack Development
+- REST API Design
+- JWT Authentication
+- MongoDB Atlas
+- React.js
+- Node.js
+- Express.js
+- Git & GitHub
+- Cloud Deployment
+- Full-Stack Application Architecture
 ## 👨‍💻 Author
 
 Aarushi Sharma
